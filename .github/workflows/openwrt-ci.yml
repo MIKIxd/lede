@@ -237,6 +237,7 @@ jobs:
            CONFIG_PACKAGE_luci-app-simple-adblock=y
            CONFIG_PACKAGE_luci-app-softethervirtual**=y
            CONFIG_PACKAGE_luci-app-splash=y
+           CONFIG_PACKAGE_luci-app-smartdns=y
            EOF
 
           # LuCI主题:
